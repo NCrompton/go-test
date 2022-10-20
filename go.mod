@@ -1,4 +1,4 @@
-module newpj/note
+module github.com/NCrompton/go-test
 
 go 1.19
 
